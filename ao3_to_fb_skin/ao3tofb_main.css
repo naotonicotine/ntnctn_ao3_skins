@@ -1174,10 +1174,10 @@ li.relationships:has([href*="*s*"])> a.tag:after{
 	content: "";
 }
 
-/*если у вас показывается список персонажей и вы хотите его покрасить замените none на цвет*/
+/*если у вас показывается список персонажей и вы хотите его покрасить замените цвет на отличный цвет от фона*/
 
 .tags li.characters a.tag, dd.character.tags a.tag{
-background-color: none;
+background-color: #3e3e3f;
 }
 
 
